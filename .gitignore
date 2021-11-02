@@ -1,0 +1,8 @@
+settings.py
+*.log
+.cfg/
+.idea/
+env/
+__pycache__/
+Lib/
+scripts/
